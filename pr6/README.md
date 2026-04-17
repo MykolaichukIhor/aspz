@@ -221,6 +221,7 @@ n2: 13632512 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
 ```
 
 **Скріншоти:**
+
 ![Massif Profile Graph](pr6_scr/task1_13_1.jpg)
 ![Massif Profile Graph](pr6_scr/task1_13_2.jpg)
 
