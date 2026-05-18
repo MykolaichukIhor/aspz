@@ -2,7 +2,7 @@
 
 ---
 
-## Завдання: Локальний чат між двома користувачами через FIFO
+## Завдання 13: Локальний чат між двома користувачами через FIFO
 
 ### Опис
 
@@ -99,11 +99,11 @@ gcc local_chat.c -o local_chat -pthread
 
 ### Підключення користувачів
 
-![Chat Connection](photo1.png)
+![Chat Connection](miniproject_scr/miniproject_scr1.jpg)
 
 ### Обмін повідомленнями
 
-![Chat Messages](photo2.png)
+![Chat Messages](miniproject_scr/miniproject_scr2.jpg)
 
 ---
 
